@@ -62,14 +62,5 @@
 
 ---
 
-## 🛠️ Getting Started  
-
-### 🔹 Installation & Setup  
-1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/deep-learning-practice.git
-cd deep-learning-practice
-```
-
 
 This version includes **CNN, CNN Visualization, VGGNet, Transfer Learning, and Data Augmentation** in a structured format. Let me know if you’d like to add more details! 🚀
