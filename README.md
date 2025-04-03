@@ -6,7 +6,7 @@
 
 ## 📂 Repository Structure  
 
-### 🔹 1️⃣ Fundamental Concepts & Implementations  
+### 🔹 1️⃣ Fundamental Concepts & Implementations     
 - **Perceptron & Its Implementation from Scratch**  
 - **ANN Techniques:**  
   - Dropout  
