@@ -49,7 +49,7 @@
 - Implemented using **ANN** & **CNN**  
 - Trained from scratch with **custom architecture**  
 
-#### 📌 God vs Cat Classification (Binary Image Classification)  
+#### 📌 Dog vs Cat Classification (Binary Image Classification)  
 - Built **CNN from scratch**  
 - Used **VGGNet-based transfer learning** for improved accuracy  
 
